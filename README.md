@@ -1,2 +1,1 @@
-# proton
-for aws proton demo
+# demo-nodejs-app
